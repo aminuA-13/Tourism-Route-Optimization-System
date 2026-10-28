@@ -1,0 +1,16 @@
+45.5360917 -122.9134825 45.536091 -122.9127192 "Northeast Ashberry Drive" residential
+45.536091 -122.9127192 45.5360917 -122.9134825 "Northeast Ashberry Drive" residential
+45.536091 -122.9127192 45.536094 -122.9126227 "Northeast Ashberry Drive" residential
+45.536094 -122.9126227 45.536091 -122.9127192 "Northeast Ashberry Drive" residential
+45.536094 -122.9126227 45.5361121 -122.9125117 "Northeast Ashberry Drive" residential
+45.5361121 -122.9125117 45.536094 -122.9126227 "Northeast Ashberry Drive" residential
+45.5361121 -122.9125117 45.5361504 -122.9123799 "Northeast Ashberry Drive" residential
+45.5361504 -122.9123799 45.5361121 -122.9125117 "Northeast Ashberry Drive" residential
+45.5361504 -122.9123799 45.5362095 -122.9122728 "Northeast Ashberry Drive" residential
+45.5362095 -122.9122728 45.5361504 -122.9123799 "Northeast Ashberry Drive" residential
+45.5362095 -122.9122728 45.5362662 -122.9121937 "Northeast Ashberry Drive" residential
+45.5362662 -122.9121937 45.5362095 -122.9122728 "Northeast Ashberry Drive" residential
+45.5362662 -122.9121937 45.5365268 -122.9119135 "Northeast Ashberry Drive" residential
+45.5365268 -122.9119135 45.5362662 -122.9121937 "Northeast Ashberry Drive" residential
+45.5365268 -122.9119135 45.5366735 -122.9117411 "Northeast Ashberry Drive" residential
+45.5366735 -122.9117411 45.5365268 -122.9119135 "Northeast Ashberry Drive" residential
